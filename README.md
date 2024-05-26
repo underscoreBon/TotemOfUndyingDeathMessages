@@ -1,5 +1,15 @@
-# Totem Of Undying DeathMessages
+# Totem Of Undying Death Messages
 
-Totem Of Undying Death Messaged Datapack for Minecraft Java 1.20.2+
+> datapack for servers that use them too much
 
-PLEASE REPORT ISSUES HERE!!!
+Totem Of Undying Death Messages Datapack for Minecraft Java 1.20.2+
+
+> [!NOTE]
+> Remember: This is a datapack, it works completely fine in vanilla or modded.
+> also, some snapshots/updates **BREAK** datapacks
+
+| Version | Compatability |
+| ------------- | ------------- |
+| 1.19.4 - 1.20.1  | 🪦 - Legacy Version  |
+| 1.20.2+ | ✅ |
+| Snapshots | Most likely working |
