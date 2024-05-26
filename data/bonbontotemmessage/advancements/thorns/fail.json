@@ -1,0 +1,22 @@
+{
+  "parent": "bonbontotemmessage:core",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "bonbontotemmessage:thorns_damage",
+                "expected": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bonbontotemmessage:checkers/thorns/fail"  }
+}

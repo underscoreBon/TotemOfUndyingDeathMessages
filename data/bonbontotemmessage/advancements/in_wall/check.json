@@ -1,0 +1,22 @@
+{
+  "parent": "bonbontotemmessage:core",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "bonbontotemmessage:in_wall_damage",
+                "expected": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bonbontotemmessage:checkers/in_wall/check"  }
+}

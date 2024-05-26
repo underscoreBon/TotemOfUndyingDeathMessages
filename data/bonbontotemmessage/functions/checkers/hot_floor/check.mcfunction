@@ -1,0 +1,1 @@
+execute as @s run function bonbontotemmessage:macros/check {"totemtag":"hot_floor"}

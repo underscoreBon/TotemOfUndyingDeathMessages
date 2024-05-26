@@ -1,0 +1,24 @@
+{
+  "parent": "bonbontotemmessage:core",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "bonbontotemmessage:falling_anvil_damage",
+                "expected": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bonbontotemmessage:checkers/falling_anvil/fail"
+
+  }
+}
