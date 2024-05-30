@@ -1,1 +1,0 @@
-execute as @s run function bonbontotemmessage:macros/fail {"totemtag":"bad_respawn_point"}

@@ -1,0 +1,23 @@
+{
+  "parent": "bontotem:core",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "bontotem:sonic_boom_damage",
+                "expected": true
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bontotem:checkers/sonic_boom/check"
+  }
+}

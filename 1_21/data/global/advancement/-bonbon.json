@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": "> n_bonnie2's Datapacks <",
+        "description": "§dPacks that are made by n_bonnie2",
+        "icon": {
+            
+            "id": "minecraft:player_head",
+            "components": {
+              "minecraft:profile": {
+                "name": "n_bonnie2"
+              }
+            },
+
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: n_bonnie2}"
+        },
+        "announce_to_chat": false,
+        "background": "minecraft:textures/block/amethyst_block.png",
+        "show_toast": false,
+        "frame": "challenge"
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

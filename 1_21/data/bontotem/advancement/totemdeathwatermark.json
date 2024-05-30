@@ -1,0 +1,19 @@
+{
+    "display": {
+        "title": "Totem of Undying Death Messages",
+        "description": "§aAnnounce when someone cheats death with a §e[Totem of Undying]§a on hand\n§f(Useful in servers with constant totem-popping.)\n\n(Current Version: v2.2)",
+        "icon": {
+            "item": "minecraft:totem_of_undying",
+            "id": "minecraft:totem_of_undying"
+        },
+        "announce_to_chat": false,
+        "show_toast": false,
+        "frame": "goal"
+    },
+    "parent": "global:-bonbon",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

@@ -1,1 +1,0 @@
-execute as @s run function bonbontotemmessage:macros/check {"totemtag":"on_fire"}

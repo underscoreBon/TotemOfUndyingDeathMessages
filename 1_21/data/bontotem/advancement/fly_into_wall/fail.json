@@ -1,0 +1,23 @@
+{
+  "parent": "bontotem:core",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "bontotem:fly_into_wall_damage",
+                "expected": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bontotem:checkers/fly_into_wall/fail"
+  }
+}

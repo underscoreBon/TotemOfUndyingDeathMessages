@@ -1,0 +1,24 @@
+{
+  "parent": "bontotem:core",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player",
+      "conditions": {
+        "damage": {
+          "type": {
+            "tags": [
+              {
+                "id": "bontotem:drown_damage",
+                "expected": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bontotem:checkers/drown/fail"
+
+  }
+}

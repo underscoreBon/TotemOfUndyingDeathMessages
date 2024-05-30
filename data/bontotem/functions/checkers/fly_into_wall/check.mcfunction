@@ -1,0 +1,1 @@
+execute as @s run function bontotem:macros/check {"totemtag":"fly_into_wall"}

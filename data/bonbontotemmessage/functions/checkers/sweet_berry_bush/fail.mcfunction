@@ -1,1 +1,0 @@
-execute as @s run function bonbontotemmessage:macros/fail {"totemtag":"sweet_berry_bush"}
