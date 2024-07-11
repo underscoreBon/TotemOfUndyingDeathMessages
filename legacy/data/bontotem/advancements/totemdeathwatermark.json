@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "translate": "bontotem.pack.name",
+            "fallback": "Totem of Undying Death Messages"
+          },
+          "description": {
+            "translate": "bontotem.pack.description",
+            "fallback": "§aAnnounce when someone cheats death with a §e[Totem of Undying]§a on hand\n§f(Useful in servers with constant totem-popping.)"
+          },
+        "icon": {
+            "item": "minecraft:totem_of_undying",
+            "id": "minecraft:totem_of_undying"
+        },
+        "announce_to_chat": false,
+        "show_toast": false,
+        "frame": "goal"
+    },
+    "parent": "global:-bonbon",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

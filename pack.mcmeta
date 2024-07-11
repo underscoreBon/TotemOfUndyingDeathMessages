@@ -11,10 +11,10 @@
     "entries": [
       {
         "formats": {
-          "min_inclusive": 45,
-          "max_inclusive": 50
+          "min_inclusive": 18,
+          "max_inclusive": 47
         },
-        "directory": "1_21"
+        "directory": "legacy"
       }
     ]
   }
