@@ -12,4 +12,4 @@ Totem Of Undying Death Messages Datapack for Minecraft Java 1.20.2+
 | ------------- | ------------- |
 | 1.19.4 - 1.20.1  | 🪦 - Legacy Version  |
 | 1.20.2+ | ✅ |
-| Snapshots | ❌ - Currently due to under-the hood changes to the datapack structure |
+| Snapshots (1.21) | ✅ - For now|
