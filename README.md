@@ -19,3 +19,7 @@ Includes 30 Unique Messages!
 | 1.20.2 - 1.20.6 | ✅ - Latest Datapack Version |
 | 1.21+ | ✅ - Latest Datapack Version |
 | Snapshots | ❔ - Due to the nature of snapshots, It is mostly a test-to-see-if-it-works basis |
+
+What about Bedrock?
+
+I do not plan to make a bedrock version of this. Any Addon Creator wanting to port this, reach out to me first.
