@@ -16,9 +16,9 @@ Includes 30 Unique Messages!
 | ------------- | ------------- |
 | Older Versions | ❌ (duh) |
 | 1.19.4 - 1.20.1  | 🪦 - 1.3 Update has support |
-| 1.20.2 - 1.20.6 | ✅ - Latest Datapack Version |
-| 1.21+ | ✅ - Latest Datapack Version |
-| Snapshots | ❔ - Due to the nature of snapshots, It is mostly a test-to-see-if-it-works basis |
+| 1.20.2 - 1.20.6 (Trails and Tales Update + Armored Paws Drop) | ✅ - Latest Datapack Version |
+| 1.21+ (Tricky Trials) | ✅ - Latest Datapack Version |
+| Snapshots (1.21.2) | ❔ - Due to the nature of snapshots, It is mostly a test-to-see-if-it-works basis |
 
 What about Bedrock?
 
