@@ -5,7 +5,7 @@ Totem Of Undying Death Messages Datapack for Minecraft Java 1.20.2+
 ## About
 
 This is a Datapack for Minecraft: Java Edition that adds death messages to when a player cheats death with a Totem of Undying on hand!
-Includes 30 Unique Messages!
+Includes 30+ Unique Messages!
 
 > [!NOTE]
 > Remember: This is a datapack, it works completely fine in vanilla or modded.
@@ -22,7 +22,8 @@ Includes 30 Unique Messages!
 
 ## Plans
 
-A rewrite will be warrented if I want this pack to support as much damage types and vsersions as possible (with ease!) and a way to add compatability with mods with custom damage typings. 
+As of Datapack Version 2.4, it is possible for other datapacks to add custom death messages without modifiying the main pack.
+Documentation will be put pur out soon
 
 ## What about Bedrock?
 
