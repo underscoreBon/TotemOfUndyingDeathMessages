@@ -3,7 +3,7 @@
     "pack_format": 18,
     "supported_formats": {
       "min_inclusive": 18,
-      "max_inclusive": 50
+      "max_inclusive": 2147483647
     },
     "description": "Totem Death Messages - by n_bonnie2"
   },
@@ -15,6 +15,21 @@
           "max_inclusive": 47
         },
         "directory": "legacy"
+      }
+      ,
+      {
+        "formats": {
+          "min_inclusive": 43,
+          "max_inclusive": 2147483647
+        },
+        "directory": "24w19b"
+      },
+      {
+        "formats": {
+          "min_inclusive": 49,
+          "max_inclusive": 2147483647
+        },
+        "directory": "24w33a"
       }
     ]
   }
