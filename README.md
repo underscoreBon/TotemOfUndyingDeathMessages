@@ -18,12 +18,12 @@ Includes 30+ Unique Messages!
 | 1.19.4 - 1.20.1  | 🪦 - 1.3 Update has support |
 | 1.20.2 - 1.20.6 (Trails and Tales Update + Armored Paws Drop) | ✅ - Latest Datapack Version |
 | 1.21+ (Tricky Trials, Bundles of Bravery, and The Garden Awakens ) | ✅ - Latest Datapack Version |
-| Snapshots | ❌ possibly broken in 25w02a, due to /tellraw change, a patch will be applied at the time of the release|
+| Snapshots | ✅ -  Latest Datapack Beta |
 
 ## Plans
 
 As of Datapack Version 2.4, it is possible for other datapacks to add custom death messages without modifiying the main pack.
-Documentation will be put pur out soon
+Documentation will be put out soon-ish-ish?
 
 ## What about Bedrock?
 
