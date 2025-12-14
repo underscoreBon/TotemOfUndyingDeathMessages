@@ -1,0 +1,9 @@
+If you are reading this, congrats!
+You are one step closer to having skill issues on chat once again!
+
+DO NOT UNZIP THIS. It will make your life much easier.
+
+#Totem of Undying Death Messages V2.5
+> i need iron blocks! im running outta bricks! i dont wanna be surrounded by lava!
+    - added spear death message ([Player] was speared but felt nothing thanks to [Totem of Undying])
+    - fixed certain death messages not working in recent versions (most notablly the mace and ender pearl messages)

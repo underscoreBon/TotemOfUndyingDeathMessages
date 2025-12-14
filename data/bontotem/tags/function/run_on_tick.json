@@ -1,6 +1,6 @@
 {
-    "values":[
-        "bontotem:base",
-        "#bontotem:addons"
+    "values":[        
+        "#bontotem:addons",
+        "bontotem:base"
     ]
 }
