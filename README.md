@@ -15,10 +15,10 @@ Includes 30+ Unique Messages!
 | Version | Compatability |
 | ------------- | ------------- |
 | Older Versions | ❌ (duh) |
-| 1.19.4 - 1.20.1  | 🪦 - 1.3 Update has support |
-| 1.20.2 - 1.20.6 (Trails and Tales Update + Armored Paws Drop) | ✅ - Latest Datapack Version |
+| 1.19.4 - 1.20.1  | 🪦 - 1.3 is the last version |
+| 1.20.2 - 1.20.6 (Trails and Tales Update + Armored Paws Drop) | 🪦 - 2.5 is the last version to support this |
 | 1.21.X, 26.1.X | ✅ - Latest Datapack Version |
-| Snapshots | Play at your own RISK. |
+| Snapshots | Only supported if there is a new death message :D |
 | April Fools Snapshots | Don't. |
 
 
